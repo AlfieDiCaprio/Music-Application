@@ -3,7 +3,7 @@ If it can be completed within the gap month, the development process will be con
 
 
 ## to-do-list
-- [x] Imitate Apple Music Frame(some details will be listed later.)
+- [ ] Imitate Apple Music Frame(some details will be listed later.)
 - [ ] Some Music API
 - [ ] Basic Functions of Music Player
 - [ ] Separate Vocals, Accompaniment and Instruments(Drums, Piano, Bass, etc.)
